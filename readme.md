@@ -1,8 +1,8 @@
 ## ECDSA Node
 
-This project is an example of using a client and server to facilitate transfers between different addresses. Since there is just a single server on the back-end handling transfers, this is clearly very centralized. We won't worry about distributed consensus for this project.
+This project 🚀 serves as an example for implementing a client-server architecture to facilitate transfers 🔄 between various addresses. As there is only a single server 🖥️ in the background managing the transfers, it is evidently a highly centralized project. For the scope of this project, we won't be focusing on distributed consensus 🌐.
 
-However, something that we would like to incoporate is Public Key Cryptography. By using Elliptic Curve Digital Signatures we can make it so the server only allows transfers that have been signed for by the person who owns the associated address.
+Integration of public key cryptography 🔐 has been achieved! Leveraging elliptic curve digital signatures 🔏, we ensure that the server only permits transfers authorized by the rightful owner of the associated address, thereby enhancing security and authenticity ✅.
 
 ### Video instructions
 For an overview of this project as well as getting started instructions, check out the following video:
